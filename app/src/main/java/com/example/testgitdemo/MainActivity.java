@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private String  str1 ="分支1 ";
+    private String  str1 ="修改名字";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
